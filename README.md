@@ -7,15 +7,14 @@
 ## 🔍 About Me
 - 🛰 Working on **hyperspectral super-resolution** and environmental monitoring  
 - 📊 Focused on **deep learning, spectral unmixing, and super-resolution models**  
-- 🌍 Interested in **biodiversity mapping & large-scale ecosystem assessment**  
-- 📚 Preparing for **Finnish YKI exam** and learning **Suomen Mestari 2**  
+- 🌍 Interested in **biodiversity mapping & large-scale ecosystem assessment**    
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, MATLAB, LaTeX, Bash  
+- **Languages:** Python, MATLAB, QGIS
 - **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras  
-- **Tools:** Google Earth Engine, Mendeley, Git, Overleaf  
+- **Tools:** Google Earth Engine, Mendeley, Git
 - **Specialized Domains:** Hyperspectral Data, Remote Sensing, Computer Vision  
 
 ---
