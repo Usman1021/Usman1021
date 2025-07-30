@@ -5,7 +5,7 @@
 ---
 
 ## 🔍 About Me
-- 🛰 Working on **hyperspectral super-resolution** and environmental monitoring  
+- 🛰 Working on **hyperspectral super-resolution** and Face biometrics 
 - 📊 Focused on **deep learning, spectral unmixing, and super-resolution models**  
 - 🌍 Interested in **biodiversity mapping & large-scale ecosystem assessment**    
 
@@ -15,7 +15,7 @@
 - **Languages:** Python, MATLAB, QGIS
 - **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras  
 - **Tools:** Google Earth Engine, Mendeley, Git
-- **Specialized Domains:** Hyperspectral Data, Remote Sensing, Computer Vision  
+- **Specialized Domains:** Hyperspectral Data, Remote Sensing, Face Analysis  
 
 ---
 
