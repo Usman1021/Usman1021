@@ -1,6 +1,6 @@
-# 👋 Hi, 
+# 👋  
 
-🎓 **Postdoctoral Researcher** | Hyperspectral Image Super-Resolution | Remote Sensing | Deep Learning
+| Remote Sensing | Deep Learning
 
 ---
 
