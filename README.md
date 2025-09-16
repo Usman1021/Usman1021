@@ -37,7 +37,7 @@
 ## 📫 How to Reach Me
 - 📧 Email: [usman1021@gamil.com](mailto:usman1021@gamil.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🔗 [Google Scholar]([https://scholar.google.com/citations?user=YourScholarID](https://scholar.google.dk/citations?user=Zu-0ve0AAAAJ&hl=en))
+- 🔗 [Google Scholar](https://scholar.google.dk/citations?user=Zu-0ve0AAAAJ&hl=en))
 
 ---
 
